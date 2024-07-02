@@ -21,6 +21,7 @@ list_of_files = [
     "config/config.yaml",
     "params.yaml",
     "schema.yaml",
+    "README.md",
     "main.py",
     "app.py",
     "Dockerfile",
